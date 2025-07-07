@@ -1,6 +1,6 @@
-# ASP.NET MVC5 Project
+# ASP.NET MVC5 Project fork: Migrated to .NET 8.0
 
-This is an MVC app developed with .NET Framework 4.8 for learning purposes.
+This was an MVC app developed with .NET Framework 4.8 for learning purposes. It has been migrated to .NET 8.0.
 
 ## 1 - File Structure
 * App_Start: Configuration Files. Loads at application start
